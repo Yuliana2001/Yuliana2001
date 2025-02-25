@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://github.com/Yuliana2001/Yuliana2001/blob/main/Selena%20Alzate.png" width="300" style="margin-bottom: 20px;">
+<img src="https://github.com/Yuliana2001/Yuliana2001/blob/main/Selena%20Alzate.png" width=100% style="margin-bottom: 20px;">
 <br>
 🌱 I’m learning about AWS and machine learning. I'm currently contributing to some projects.
 <!--
