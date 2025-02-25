@@ -1,6 +1,6 @@
 ## Hi there 👋
 ![Mi Imagen](https://github.com/Yuliana2001/Yuliana2001/blob/main/Selena%20Alzate.png)
-
+🌱 I’m learning about AWS and machine learning. I'm currently contributing to some projects.
 <!--
 **Yuliana2001/Yuliana2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
