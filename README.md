@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Mi Imagen](https://raw.githubusercontent.com/Yuliana2001/Yuliana2001/main/Selena Alzate.png)
+![Mi Imagen](https://github.com/Yuliana2001/Yuliana2001/blob/main/Selena%20Alzate.png)
 
 <!--
 **Yuliana2001/Yuliana2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
