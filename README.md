@@ -8,10 +8,21 @@
 
 
 
-- A passionate Self-taught Full stack developer
-- Currently learning App developer
-- I’m currently open for an Intern or a new job opportunity
+```python
+class YulianaAlzate():
+    
+  def __init__(self):
+    self.name = "Yuliana Selena Alzate Palacio";
+    self.username = "yuliana2001";
+    self.location = "Medellín, Colombia";
+    self.linkedin = "www.linkedin.com/in/yuliana-selena-alzate";
+  
+  def __str__(self):
+    return self.name
 
+if __name__ == '__main__':
+    me = YulianaAlzate()
+```
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -24,7 +35,6 @@
 - **Languages**:
     
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![SQL](https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/SQLite.svg)
     
 
 <br>   
